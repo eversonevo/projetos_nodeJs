@@ -7,5 +7,8 @@
     "start": "index.js"
   },
   "author": "Eo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
